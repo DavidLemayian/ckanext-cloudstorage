@@ -19,6 +19,7 @@ setup(
     install_requires=[
         'apache-libcloud~=2.8.2',
         'six>=1.12.0',
+        'ckanapi~=4.5'
     ],
     entry_points=(
         """
